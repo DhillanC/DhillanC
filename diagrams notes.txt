@@ -128,6 +128,69 @@ flowchart LR
     Apply --> Infrastructure[Provision Resources]
 
 
-## 
+## Docker Container Lifecycle Diagram
+```mermaid
+flowchart TB
+    subgraph A [Dockerfile Creation]
+        direction TB
+        A1[Write Dockerfile] --> A2[Define Base Image]
+        A2 --> A3[Add Dependencies]
+        A3 --> A4[Configure Environment]
+        A4 --> A5[Set Up Entrypoint]
+        A5 --> A6[Build Docker Image]
+        style A1 fill:#2E86C1,stroke:#000,stroke-width:2px
+        style A2 fill:#2E86C1,stroke:#000,stroke-width:2px
+        style A3 fill:#2E86C1,stroke:#000,stroke-width:2px
+        style A4 fill:#2E86C1,stroke:#000,stroke-width:2px
+        style A5 fill:#2E86C1,stroke:#000,stroke-width:2px
+        style A6 fill:#2E86C1,stroke:#000,stroke-width:2px
+    end
+    
+    subgraph B [Docker Image Lifecycle]
+        direction TB
+        B1[Build Docker Image] --> B2[Tag Image]
+        B2 --> B3[Push to Docker Registry]
+        B3 --> B4[Version Control]
+        B4 --> B5[Pull from Registry]
+        style B1 fill:#1F618D,stroke:#000,stroke-width:2px
+        style B2 fill:#1F618D,stroke:#000,stroke-width:2px
+        style B3 fill:#1F618D,stroke:#000,stroke-width:2px
+        style B4 fill:#1F618D,stroke:#000,stroke-width:2px
+        style B5 fill:#1F618D,stroke:#000,stroke-width:2px
+    end
+
+    subgraph C [Container Orchestration]
+        direction TB
+        C1[Kubernetes Deployment] --> C2[Service Discovery]
+        C2 --> C3[Load Balancing]
+        C3 --> C4[Health Checks]
+        C4 --> C5[Scaling]
+        C5 --> C6[Rolling Updates]
+        style C1 fill:#58D68D,stroke:#000,stroke-width:2px
+        style C2 fill:#58D68D,stroke:#000,stroke-width:2px
+        style C3 fill:#58D68D,stroke:#000,stroke-width:2px
+        style C4 fill:#58D68D,stroke:#000,stroke-width:2px
+        style C5 fill:#58D68D,stroke:#000,stroke-width:2px
+        style C6 fill:#58D68D,stroke:#000,stroke-width:2px
+    end
+
+    subgraph D [Monitoring & Logging]
+        direction TB
+        D1[Cluster Monitoring] --> D2[Application Metrics]
+        D2 --> D3[Logging]
+        D3 --> D4[Alerts]
+        style D1 fill:#EC7063,stroke:#000,stroke-width:2px
+        style D2 fill:#EC7063,stroke:#000,stroke-width:2px
+        style D3 fill:#EC7063,stroke:#000,stroke-width:2px
+        style D4 fill:#EC7063,stroke:#000,stroke-width:2px
+    end
+
+    A6 --> B1
+    B5 --> C1
+    C6 --> D1
+
+
+
+
 
 ## 

@@ -4,7 +4,7 @@ flowchart TD
     %% Define Styles
     style EC2 fill:#FFDD00,stroke:#000,stroke-width:2px
     style S3 fill:#1F618D,stroke:#000,stroke-width:2px
-    style RDS fill:#208e4e,stroke:#000,stroke-width:2px
+    style RDS fill:#2ECC71,stroke:#000,stroke-width:2px
     style Lambda fill:#F39C12,stroke:#000,stroke-width:2px
     style CloudWatch fill:#9B59B6,stroke:#000,stroke-width:2px
     style VPC fill:#5D6D7E,stroke:#000,stroke-width:2px
