@@ -1,0 +1,133 @@
+### CI/CD Pipeline Diagram
+```mermaid
+flowchart LR
+    A[Code Commit] --> B(Build)
+    B --> C(Automated Tests)
+    C --> D(Deployment)
+    D --> E(Monitoring)
+    style A fill:#1f77b4,stroke:#000,stroke-width:2px
+    style B fill:#ff7f0e,stroke:#000,stroke-width:2px
+    style C fill:#2ca02c,stroke:#000,stroke-width:2px
+    style D fill:#d62728,stroke:#000,stroke-width:2px
+    style E fill:#9467bd,stroke:#000,stroke-width:2px
+
+## Microservices Architecture Diagram
+```mermaid
+flowchart TD
+    subgraph Microservices_Architecture
+        A[API Gateway] --> B[Authentication Service]
+        A --> C[User Service]
+        A --> D[Product Service]
+        C --> E[Database]
+        D --> E[Database]
+        B --> F[Monitoring Service]
+    end
+
+
+
+## AWS Architecture Diagram
+```mermaid
+flowchart TD
+    subgraph AWS_Architecture
+
+        %% Define Styles
+        style EC2 fill:#FFDD00,stroke:#000,stroke-width:2px
+        style S3 fill:#1F618D,stroke:#000,stroke-width:2px
+        style RDS fill:#2ECC71,stroke:#000,stroke-width:2px
+        style Lambda fill:#F39C12,stroke:#000,stroke-width:2px
+        style CloudWatch fill:#9B59B6,stroke:#000,stroke-width:2px
+        style VPC fill:#5D6D7E,stroke:#000,stroke-width:2px
+        style IAM fill:#E74C3C,stroke:#000,stroke-width:2px
+        style SQS fill:#8E44AD,stroke:#000,stroke-width:2px
+        style SNS fill:#2980B9,stroke:#000,stroke-width:2px
+
+        %% VPC Architecture
+        subgraph VPC[VPC]
+
+            %% Instances and Services within the VPC
+            EC2[EC2 Instances] --> S3[S3 Bucket]
+            EC2 --> RDS[RDS Database]
+            S3 --> Lambda[Lambda Function]
+            Lambda --> CloudWatch[CloudWatch Monitoring]
+            EC2 --> SQS[SQS Queue]
+            SQS --> Lambda
+            Lambda --> SNS[SNS Notifications]
+        end
+
+        %% IAM Role for accessing services
+        IAM[IAM Role] -->|Authentication| EC2
+
+    end
+
+## AWS Architecture Diagram
+```mermaid
+flowchart TD
+    %% Define Styles
+    style EC2 fill:#FFDD00,stroke:#000,stroke-width:2px
+    style S3 fill:#1F618D,stroke:#000,stroke-width:2px
+    style RDS fill:#2ECC71,stroke:#000,stroke-width:2px
+    style Lambda fill:#F39C12,stroke:#000,stroke-width:2px
+    style CloudWatch fill:#9B59B6,stroke:#000,stroke-width:2px
+    style VPC fill:#5D6D7E,stroke:#000,stroke-width:2px
+    style IAM fill:#E74C3C,stroke:#000,stroke-width:2px
+    style SQS fill:#8E44AD,stroke:#000,stroke-width:2px
+    style SNS fill:#2980B9,stroke:#000,stroke-width:2px
+
+    %% Reposition VPC to the left side, and IAM to the right
+    subgraph VPC[VPC]
+        EC2[EC2 Instances] --> S3[S3 Bucket]
+        EC2 --> RDS[RDS Database]
+        S3 --> Lambda[Lambda Function]
+        Lambda --> CloudWatch[CloudWatch Monitoring]
+        EC2 --> SQS[SQS Queue]
+        SQS --> Lambda
+        Lambda --> SNS[SNS Notifications]
+    end
+
+    %% IAM Role and rerouted authentication arrow on the right side
+    IAM[IAM Role] -->|Authentication| EC2
+    IAM -.->|Access Control| RDS
+
+
+
+## AWS Architecture Diagram
+```mermaid
+flowchart TD
+    subgraph AWS_Architecture
+        EC2[EC2 Instances] --> S3[S3 Bucket]
+        EC2 --> RDS[RDS Database]
+        S3 --> Lambda[Lambda Function]
+        Lambda --> CloudWatch[CloudWatch Monitoring]
+    end
+
+## Docker Container Lifecycle Diagram
+```mermaid
+flowchart LR
+    A[Dockerfile] --> B(Docker Build)
+    B --> C(Docker Push to Registry)
+    C --> D(Kubernetes Deployment)
+    D --> E(Cluster Monitoring)
+    style A fill:#2E86C1,stroke:#000,stroke-width:2px
+    style B fill:#1F618D,stroke:#000,stroke-width:2px
+    style C fill:#D4AC0D,stroke:#000,stroke-width:2px
+    style D fill:#58D68D,stroke:#000,stroke-width:2px
+    style E fill:#EC7063,stroke:#000,stroke-width:2px
+
+## GitOps Workflow Diagram
+```mermaid
+flowchart LR
+    Git[Git Repository] --> ArgoCD
+    ArgoCD --> Kubernetes[Kubernetes Cluster]
+    Kubernetes --> GitOpsMonitor[Monitor GitOps Changes]
+
+## Terraform Infrastructure Provisioning Diagram
+```mermaid
+flowchart LR
+    Code[Terraform Code] --> Plan[Plan Infrastructure]
+    Plan --> Apply[Apply to Cloud Provider]
+    Apply --> Infrastructure[Provision Resources]
+
+
+## 
+
+## 

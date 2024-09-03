@@ -1,5 +1,5 @@
 # ☕ About Me:
-I'm a DevOps Engineer passionate about automating infrastructure, enhancing CI/CD pipelines, and optimizing cloud-based environments.<br><br>My goal is to bridge the gap between development and operations by creating seamless workflows and driving efficiency through automation.<br>
+I'm a DevOps Engineer passionate about automating infrastructure, enhancing CI/CD pipelines, and optimizing cloud-based environments. My goal is to bridge the gap between development and operations by creating seamless workflows and driving efficiency through automation.<br>
 
 
 ## 🌐 Socials:
@@ -10,7 +10,8 @@ I'm a DevOps Engineer passionate about automating infrastructure, enhancing CI/C
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-## Hosting/SaaS
+## Cloud Platforms
+
  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=whit)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![IBM](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
 
 ## CI/CD
@@ -28,19 +29,20 @@ I'm a DevOps Engineer passionate about automating infrastructure, enhancing CI/C
 <br/><br/>
 
 # 📊 GitHub Public Stats:
-![](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DhillanC&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhillanC&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhillanC&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DhillanC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DhillanC&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 <br/>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=one_dark_pro)
+<br/>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Public Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DhillanC&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhillanC&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DhillanC&icon=9&color=8)](https://visitcount.itsvg.in)
