@@ -1,7 +1,17 @@
 # 👋🏻 About Me:
 I'm a DevOps Engineer passionate about automating infrastructure, enhancing CI/CD pipelines, and optimizing cloud-based environments.<br><br>My goal is to bridge the gap between development and operations by creating seamless workflows and driving efficiency through automation.<br>
 
-# My Certifications 🏅 👋🏻
+# My Certifications 🏅
+- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-41804d0af88b)
+- [IBM Applied DevOps Engineering Professional Certificate](https://coursera.org/share/b4e74a68bbc29b65cd61871259cf130bn)
+- [IBM DevOps and Software Engineering Professional Certificate](https://coursera.org/share/b4e74a68bbc29b65cd61871259cf130bn)
+- [IBM Back-End Development Professional Certificate](https://coursera.org/share/b4e74a68bbc29b65cd61871259cf130bn)
+- [Applied Software Engineering Fundamentals](https://coursera.org/share/b4e74a68bbc29b65cd61871259cf130bn)
+- [DevOps, Cloud, and Agile Foundations](https://coursera.org/share/3654e222968f5bc01bb3cf639e26b6ff)
+
+See all my Certifications here
+👉🏻 [Dhillan's Credly Profile](https://www.credly.com/users/dhillan-contreras/"Credly Profile")
+
 
 
 ## 🌐 Socials:
