@@ -3,7 +3,7 @@ I'm a DevOps Engineer passionate about automating infrastructure, enhancing CI/C
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhillancontreras/) [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/1ee5c17cac0a6ba27e335145b75506ab) [![Credly](https://img.shields.io/badge/Credly-%2300645A?logo=credly&style=for-the-badge)](https://www.credly.com/users/dhillan-contreras)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhillancontreras/) [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/dhillan-contreras) [![Credly](https://img.shields.io/badge/Credly-%2300645A?logo=credly&style=for-the-badge)](https://www.credly.com/users/dhillan-contreras)
 
 <br/>
 
