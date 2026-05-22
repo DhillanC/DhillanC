@@ -111,11 +111,11 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ## 📊 GitHub Stats
 
-![Dhillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+![Dhillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhillanC&theme=github_dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ---
 
@@ -133,7 +133,7 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ## 🤝 Top Contributed Repos
 
-![Contributions](https://github-contributor-stats.vercel.app/api?username=DhillanC&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false)
+![Contributions](https://github-contributor-stats.vercel.app/api?username=DhillanC&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false&show_icons=true)
 
 ---
 
