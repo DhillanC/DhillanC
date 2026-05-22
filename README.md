@@ -34,6 +34,42 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ---
 
+## 🔄 Framework Visualization
+
+```mermaid
+graph LR
+    subgraph Phase1["📋 Phase 1: Strategic Diagnosis"]
+        A["Process Mapping"] --> B["FIT-GAP Analysis"]
+        B --> C["Risk-Ranked Backlog"]
+    end
+    
+    subgraph Phase2["🏗️ Phase 2: Architecture"]
+        D["Technical Blueprints"] --> E["ERP Alignment"]
+        E --> F["Rollback Paths"]
+    end
+    
+    subgraph Phase3["⚙️ Phase 3: Deployment"]
+        G["Full-Stack Dev"] --> H["CI/CD Pipelines"]
+        H --> I["Edge Computing"]
+    end
+    
+    subgraph Phase4["📈 Phase 4: Optimization"]
+        J["BI Dashboards"] --> K["MTBF Tracking"]
+        K --> L["Quarterly Roadmaps"]
+    end
+    
+    Phase1 --> Phase2
+    Phase2 --> Phase3
+    Phase3 --> Phase4
+    
+    style Phase1 fill:#1f6feb,color:#fff
+    style Phase2 fill:#238636,color:#fff
+    style Phase3 fill:#da3633,color:#fff
+    style Phase4 fill:#8957e5,color:#fff
+```
+
+---
+
 ## 📊 Impact
 
 - **100+ projects delivered** across oil & gas, chemical, mining, food & beverage, and energy sectors
@@ -97,6 +133,7 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### SAP & Enterprise
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
@@ -130,11 +167,7 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 > ⚠️ **Nota:** Estas estadísticas reflejan actividad pública. Los repositorios privados de clientes enterprise no aparecen aquí.
 
-![Dhillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhillanC&theme=github_dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ---
 
