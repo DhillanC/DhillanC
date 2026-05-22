@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Dhillan
 
-**DevOps Engineer** | Colombia 🇨🇴
+**DevOps Engineer**
 
 I build CI/CD pipelines, cloud infrastructure, and automation tools that bridge the gap between development and operations. Currently focused on SAP integrations, cloud-native deployments, and AI-powered tooling — usually with a cup of coffee in hand. ☕
 
@@ -17,7 +17,7 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 | **Observability** | Monitoring, tracing, logging at scale | Prometheus, Grafana, Jaeger |
 | **SAP Enterprise Integration** | S/4HANA PM/MM/CO modules, asset traceability, predictive maintenance | Python, PostgreSQL, SAP BTP |
 | **Applied AI & LLM** | Predictive maintenance, document classification, LLM orchestration, BI dashboards | OpenAI API, TensorFlow, Power BI |
-| **Expert-Led Systems** | Clinical workflows, pharmacy integration, HIPAA-compliant architecture | React, Node.js, FastAPI, Next.js |
+| **Expert-Led Systems** | Oil & Gas, Chemical, Mining, Food & Beverage, Energy — industrial systems and asset-heavy operations | OPC-UA, MQTT, SCADA, PI System, AspenTech |
 
 ---
 
@@ -36,13 +36,13 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ## 📊 Impact
 
-- **100+ projects delivered** across mining, healthcare, energy and SAP-driven enterprises
+- **100+ projects delivered** across oil & gas, chemical, mining, food & beverage, and energy sectors
 - **15+ years combined** senior engineers, SAP consultants and domain experts
 - **4 core disciplines:** Industrial Engineering · SAP · Bespoke Software · Applied AI
 - **50% reduction in management time** via automated asset traceability systems
 - **100% traceability recovery** for repairable rotating equipment across distributed sites
 - **Zero re-work** — field data flows automatically into SAP with zero human error
-- **35% faster clinical workflows** through expert-led UI/UX redesign
+- **35% faster operational workflows** through expert-led process redesign
 - **100% mitigation** of critical vulnerabilities via DevSecOps threat modeling (STRIDE/PASTA)
 
 ---
@@ -52,6 +52,12 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhillancontreras/)
 [![Credly](https://img.shields.io/badge/Credly-%2300645A?logo=credly&style=for-the-badge)](https://www.credly.com/users/dhillan-contreras)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/dhillan-contreras)
+
+---
+
+## 🏢 Digital Consultancy Solutions
+
+[![DCS Website](https://img.shields.io/badge/Digital_Consultancy_Solutions-Visit_Website-2ea44f?style=for-the-badge)](https://dcs-web-kappa.vercel.app/)
 
 ---
 
@@ -105,11 +111,11 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ## 📊 GitHub Stats
 
-![Dhillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+![Dhillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhillanC&theme=github_dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -127,7 +133,7 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ## 🤝 Top Contributed Repos
 
-![Contributions](https://github-contributor-stats.vercel.app/api?username=DhillanC&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Contributions](https://github-contributor-stats.vercel.app/api?username=DhillanC&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false)
 
 ---
 
