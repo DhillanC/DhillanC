@@ -111,11 +111,29 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ## 📊 GitHub Stats
 
-![Dhillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhillanC&theme=github_dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#24292e', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#8b949e', 'secondaryColor': '#161b22', 'tertiaryColor': '#21262d'}}}%%
+graph LR
+    subgraph GitHub_Activity["📈 GitHub Activity"]
+        A["🔧 Repositories<br/>Public + Private"] --> B["📊 Total Contributions<br/>All Commits"]
+        B --> C["🔥 Current Streak<br/>Active Days"]
+        C --> D["📅 Longest Streak<br/>Best Period"]
+    end
+    
+    subgraph Languages["💻 Top Languages"]
+        E["Python"] --> F["JavaScript"]
+        F --> G["Shell"]
+        G --> H["C++"]
+        H --> I["Others"]
+    end
+    
+    GitHub_Activity --> Languages
+    
+    style A fill:#238636,color:#fff
+    style B fill:#1f6feb,color:#fff
+    style C fill:#da3633,color:#fff
+    style D fill:#8957e5,color:#fff
+```
 
 ---
 
@@ -133,7 +151,22 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ## 🤝 Top Contributed Repos
 
-![Contributions](https://github-contributor-stats.vercel.app/api?username=DhillanC&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false&show_icons=true)
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#24292e', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#8b949e', 'secondaryColor': '#161b22', 'tertiaryColor': '#21262d'}}}%%
+graph TD
+    subgraph Contributions["🏆 Top Contributions"]
+        A["🔧 dcs-web<br/>Frontend + Backend"] --> B["⚙️ fuga<br/>Monitoring System"]
+        B --> C["📦 zetasoftware<br/>Billing Platform"]
+        C --> D["🤖 dcs-docuseal<br/>Document Signing"]
+        D --> E["🔌 nodum-api<br/>API Integration"]
+    end
+    
+    style A fill:#238636,color:#fff
+    style B fill:#1f6feb,color:#fff
+    style C fill:#da3633,color:#fff
+    style D fill:#8957e5,color:#fff
+    style E fill:#d29922,color:#000
+```
 
 ---
 
