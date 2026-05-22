@@ -67,6 +67,7 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)
 ![Kiali](https://img.shields.io/badge/Kiali-blue?logo=kiali&style=for-the-badge)
@@ -97,10 +98,26 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+### SAP & Enterprise
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Integration Suite](https://img.shields.io/badge/SAP_Integration_Suite-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+
+### Cybersecurity
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### Management & Methodologies
+![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-005EB8?style=for-the-badge&logo=siemens&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-4D4D4D?style=for-the-badge&logo=axelos&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![PMI](https://img.shields.io/badge/PMI-003B5C?style=for-the-badge&logo=pmi&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
