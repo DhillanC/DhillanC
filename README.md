@@ -165,7 +165,7 @@ graph LR
 
 ## 📊 GitHub Public Stats
 
-> ⚠️ **Nota:** Estas estadísticas reflejan actividad pública. Los repositorios privados de clientes enterprise no aparecen aquí.
+> ⚠️ **Note:** These stats reflect public activity only. Private enterprise client repositories are not visible here.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhillanC&theme=github_dark&hide_border=false)
 
