@@ -111,6 +111,8 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ## 📊 GitHub Public Stats
 
+> ⚠️ **Nota:** Estas estadísticas reflejan actividad pública. Los repositorios privados de clientes enterprise no aparecen aquí.
+
 ![Dhillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhillanC&theme=github_dark&hide_border=false)
