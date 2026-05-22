@@ -109,7 +109,7 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Public Stats
 
 ![Dhillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhillanC&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
@@ -128,12 +128,6 @@ Currently building at [Digital Consultancy Solutions](https://dcs-web-kappa.verc
 ## ✍️ Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=one_dark_pro)
-
----
-
-## 🤝 Top Contributed Repos
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=DhillanC&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false&show_icons=true)
 
 ---
 
