@@ -173,7 +173,7 @@ graph LR
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy-winning.vercel.app/?username=DhillanC&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=DhillanC&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
